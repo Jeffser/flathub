@@ -49,5 +49,5 @@ modules:
     sources:
       - type: git
         url: https://github.com/Jeffser/Popcorn.git
-        tag: 0.2.1
-        commit: 64c3b238dce49dc50ed75cae653b2ec596896801
+        tag: 0.2.2
+        commit: 0a8292f2e97746e864cfc7f96554afe59f5808f2
